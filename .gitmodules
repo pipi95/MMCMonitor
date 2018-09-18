@@ -1,0 +1,6 @@
+[submodule "FrameOperator"]
+	path = FrameOperator
+	url = https://github.com/pipi95/FrameOperator.git
+[submodule "Log4Qt"]
+	path = Log4Qt
+	url = https://github.com/pipi95/Log4Qt.git
